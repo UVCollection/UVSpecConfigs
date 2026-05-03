@@ -8,7 +8,7 @@ Presenting UVSpec from the UltraViolet Collection—the ultimate spec for the ul
 
 ## The H-Wagen Project
 
-![Family Photo](./H-Wagen.png)
+![Family Photo](./H-Wagen-preview.png)
 
 The H-Wagen series marks the UltraViolet Collection’s first public release—though “public” is doing some heavy lifting. Long before anyone outside a very short client list knew the name, these builds were already circulating quietly, evolving behind closed doors. The starting point was simple, at least on paper: take the Ibishu Hopper and make it more… refined. Not sanitized, not softened—just elevated in ways the original never attempted.
 
@@ -37,6 +37,8 @@ The Off Road Sport starts with the precision and power of the H-Wagen Sport, the
 Starting at $888,888
 
 ## I-Series UVSpec 700x
+
+![700x](./700x-preview.png)
 
 The 700x is what happens when UVSpec stops respecting the limits that made the original I-Series iconic in the first place. At its core is a fully reworked powerplant—a custom forged block, stroked to 3.2L, and force-fed through a meticulously developed turbo and exhaust system pushing output well beyond 700HP. It’s not just power for the sake of numbers, either; the delivery is deliberate, relentless, and engineered to feel inevitable.
 

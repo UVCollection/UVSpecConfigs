@@ -35,3 +35,13 @@ Starting at $1,222,333
 The Off Road Sport starts with the precision and power of the H-Wagen Sport, then politely ignores everything it learned about pavement. The advanced AWD system is replaced with a proper off-road transfer case and locking differentials, trading calculated grip for mechanical certainty when the terrain stops cooperating. Lifted springs rework the tuned suspension for articulation and clearance, while custom 17" wheels wrapped in 33" tires ensure it can actually use all 476HP somewhere far away from asphalt. It’s a deliberate contradiction—high-performance engineering repurposed for low-traction chaos—built for those who see a finely tuned machine not as something to preserve, but something to test.
 
 Starting at $888,888
+
+## I-Series UVSpec 700x
+
+The 700x is what happens when UVSpec stops respecting the limits that made the original I-Series iconic in the first place. At its core is a fully reworked powerplant—a custom forged block, stroked to 3.2L, and force-fed through a meticulously developed turbo and exhaust system pushing output well beyond 700HP. It’s not just power for the sake of numbers, either; the delivery is deliberate, relentless, and engineered to feel inevitable.
+
+To keep things pointed in roughly the right direction, UVSpec developed a bespoke suspension setup paired with carbon-ceramic brakes, all anchored by aggressively sized 19x11 wheels. The result is a chassis that feels as composed as it does unhinged. Visually, it follows the established UVSpec philosophy: restrained at a glance, but unmistakable on closer inspection. Subtle, if your definition of subtle includes a car that quietly rewrites expectations the moment it moves.
+
+The 700x is an unapologetically analog autobahn weapon—built for those who don’t need it explained.
+
+Starting at $333,444
